@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lwazi-Mhlongo
 - 👀 I’m interested in working in the tech industry...
-- 🌱 I’m currently learning Python, Django
+- 🌱 I’m currently learning
 - 📙 Currently Studying Bachelor of Science in Information Technology (Software Engineering) ...
 <!---
 Lwazi-M/Lwazi-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
