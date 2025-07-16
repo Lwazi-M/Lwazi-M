@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lwazi Mhlongo
+- 👋 Hi, I’m @Nhlanzeko Lwazi Mhlongo
 - 👀 I’m an Aspiring Software Engineer Based in South Africa
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScript, SQL etc. etc.
 - 📙 Currently Studying Bachelor of Science in Information Technology (Software Engineering) ...
