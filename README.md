@@ -5,7 +5,7 @@
 <h3 align="left">Aspiring Junior Software Engineer Based in South Africa 🇿🇦</h3>
 
 <div align="left">
-  <a href="https://lwazimhlongo.com" target="_blank">
+  <a href="https://lwazimhlongo.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit_My_Portfolio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
