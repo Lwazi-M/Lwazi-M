@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Nhlanzeko+Lwazi+Mhlongo;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<h3 align="left">Aspiring Junior Software Engineer Based in South Africa 🇿🇦</h3>
+<h3 align="left">Aspiring Junior Software Engineer Based in South Africa</h3>
 
 <div align="left">
   <a href="https://lwazimhlongo.com/" target="_blank">
