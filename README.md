@@ -1,5 +1,4 @@
-<img width="1373" height="514" alt="image" src="https://github.com/user-attachments/assets/93cc7460-1846-4e0d-9776-762f6c50a8e7" /><div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Nhlanzeko+Lwazi+Mhlongo;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Nhlanzeko+Lwazi+Mhlongo;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <h3 align="left">Aspiring Junior Software Engineer Based in South Africa 🇿🇦</h3>
