@@ -15,8 +15,8 @@
 
 - 🔭 I’m currently working on building **scalable Java Spring Boot backends** and **modern React applications**.
 - 🌱 I’m currently learning deeper **Cloud Deployment (Docker/AWS/Render)** and **Advanced Database Architecture**.
-- 📫 How to reach me: **[nhlamhlongo.work@gmail.com](mailto:nhlamhlongo.work@gmail.com)** or please connect on LinkedIn below!
-- ⚡ Fun fact: I treat my code like a digital bureaucracy—every file has a specific job!
+- 📫 How to reach me: **[nhlamhlongo.work@gmail.com](mailto:nhlamhlongo.work@gmail.com)** or connect on LinkedIn below!
+- ⚡ Fun fact: I treat my code like a digital bureaucracy - every file has a specific job!
 
 ### 🛠️ Languages and Tools
 <p align="left">
