@@ -38,7 +38,7 @@
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
 </p>
 
-<h3 align="left">Let's Connect</h3>
+<h3 align="left">Let Us Connect</h3>
 <p align="left">
   <a href="https://linkedin.com/in/nhlamhlongo" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhlamhlongo" height="40" width="50" />
